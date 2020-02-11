@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view.
     //0111
     //测试好玩吗
+    
+    //实现了登录功能
 }
 
 
